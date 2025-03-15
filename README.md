@@ -25,18 +25,10 @@ Proficient in **Project Management, Data Analysis, Data Structures, OOP, Git**, 
 📊 Used **Jira, Bitbucket, Burndown Charts** for progress tracking  
 
 ### 🔹 **Data Analyst | General Assembly Institute of Technology** (07/2021 - 10/2021)  
-📌 **Location:** New York, NY  
-✅ **Key Contributions:**  
-- Imported CSV files containing hundreds of columns and more than 5,000 rows into **Excel**, ensuring data integrity.  
-- Cleaned data by removing outliers and unnecessary values, optimizing it for further analysis.  
-- Utilized **VLOOKUP and IF functions** to retrieve specific data under conditions, aiding stakeholders in decision-making.  
-- Designed customized **Pivot Tables and interactive Dashboards** to summarize large datasets for business insights.  
-- Implemented **CRUD functionality using PostgreSQL** to manage millions of data records.  
-- Executed complex **SQL queries (subqueries, JOINs, WHERE clauses)** to enhance data relationships.  
-- Connected **Tableau** to PostgreSQL and Excel for seamless **real-time and extracted data analysis**.  
-- Developed **interactive dashboards** with bar charts, line graphs, and scatter plots for in-depth data visualization.  
-
-🔹 **Skills:** Microsoft Office Suite, Jira framework, PostgreSQL, Excel, Tableau  
+📊 Cleaned and analyzed large datasets using **Excel**, removing outliers and optimizing for insights.  
+🔍 Executed **SQL queries (JOINs, subqueries)** to extract key business data from **PostgreSQL**.  
+📈 Built **interactive Tableau dashboards** to visualize trends and drive data-driven decisions.  
+✅ **Tools:** Excel, PostgreSQL, SQL, Tableau, VLOOKUP, Pivot Tables, Data Cleaning
 
 ---
 
