@@ -46,10 +46,10 @@ Proficient in **Project Management, Data Analysis, Data Structures, OOP, Git**, 
 I have earned multiple certifications across diverse domains, including software engineering, web development, UX design, data analytics, cybersecurity, digital marketing, and research ethics. These certifications reflect my commitment to continuous learning and professional growth.
 
 [![Certificates](https://img.shields.io/badge/My-Certificates-blue?style=for-the-badge)](https://github.com/sahrishafzal/Certificate)
-### 🏆 List of Certificates  
+### 🏆 List of Certificates
 
-- [Agile Coach Certificate](https://github.com/sahrishafzal/Certificate/blob/main/Agile%20Coach%20Certificate.pdf)  
-- [BS Degree Completion Diploma](https://github.com/sahrishafzal/Certificate/blob/main/BS%20Degree%20Completion%20diploma.pdf)  
+- [BS Degree Completion Diploma](https://github.com/sahrishafzal/Certificate/blob/main/BS%20Degree%20Completion%20diploma.pdf)
+- [Agile Coach Certificate](https://github.com/sahrishafzal/Certificate/blob/main/Agile%20Coach%20Certificate.pdf)    
 - [Capstone Project Achievement](https://github.com/sahrishafzal/Certificate/blob/main/Capstone%20Projeject%20Achievement.png)  
 - [Express Essentials - Build Powerful Web Apps with Node.js](https://github.com/sahrishafzal/Certificate/blob/main/CertificateOfCompletion_Express%20Essentials%20Build%20Powerful%20Web%20Apps%20with%20Node.js%20.pdf)  
 - [Data Analytics](https://github.com/sahrishafzal/Certificate/blob/main/Data%20Analytics.pdf)  
