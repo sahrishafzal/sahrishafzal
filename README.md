@@ -21,14 +21,14 @@ Proficient in **Project Management, Data Analysis, Data Structures, OOP, Git**, 
 
 ---
 ## 🛠 Skills  
-<img src=" " alt="  HTML " width="60" height="60">  
-<img src=" " alt="CSS " width="60" height="60"> 
+<img src=" https://github.com/sahrishafzal/logos/blob/main/HTML5_logo_and_wordmark.svg" alt="  HTML " width="60" height="60">  
+<img src="https://github.com/sahrishafzal/logos/blob/main/CSS3_logo.svg  " alt="CSS " width="60" height="60"> 
 <img src=" " alt="Bootstrap " width="60" height="60">  
-<img src=" " alt=" React.js" width="60" height="60"> 
-<img src=" " alt=" JavaScript" width="60" height="60">  
+<img src=" https://github.com/sahrishafzal/logos/blob/main/React-icon.svg" alt=" React.js" width="60" height="60"> 
+<img src="https://github.com/sahrishafzal/logos/blob/main/Javascript_badge.svg " alt=" JavaScript" width="60" height="60">  
 <img src=" " alt="Node.js " width="60" height="60"> 
-<img src=" " alt=" Flask " width="60" height="60">  
-<img src=" " alt=" PHP" width="60" height="60"> 
+<img src=" https://github.com/sahrishafzal/logos/blob/main/Flask.svg" alt=" Flask " width="60" height="60">  
+<img src="https://github.com/sahrishafzal/logos/blob/main/PHP-logo.svg " alt=" PHP" width="60" height="60"> 
 <img src=" " alt=" PostgreSQL" width="60" height="60">  
 <img src=" " alt="Express.js " width="60" height="60"> 
 <img src=" " alt=" Python " width="60" height="60">  
