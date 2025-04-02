@@ -15,9 +15,7 @@ Proficient in **Project Management, Data Analysis, Data Structures, OOP, Git**, 
 
 ---
 ## 🎓 Education
-<img src="https://media.licdn.com/dms/image/v2/C4E0BAQGeM2xL_Ibjhw/company-logo_200_200/company-logo_200_200/0/1630582551756/njit_logo?e=1749081600&v=beta&t=M9OHBL_ymmnfpQArTJwM2NfX-KHyL2IukQnjjr5whTc" alt="New Jersey Institute of Technology" width="60" height="60"> 
-
-BS in Computer Science and Business  12/2024
+<img src="https://media.licdn.com/dms/image/v2/C4E0BAQGeM2xL_Ibjhw/company-logo_200_200/company-logo_200_200/0/1630582551756/njit_logo?e=1749081600&v=beta&t=M9OHBL_ymmnfpQArTJwM2NfX-KHyL2IukQnjjr5whTc" alt="New Jersey Institute of Technology" width="60" height="60"> BS in Computer Science and Business  12/2024
 
 - Programming Club, Cybersecurity Club, Honor Society, Women in Computing Society, Girls Who Code, Badminton Club, Swimming Club
 
