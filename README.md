@@ -21,7 +21,7 @@ Proficient in **Project Management, Data Analysis, Data Structures, OOP, Git**, 
 
 ---
 ## 🛠 Skills  
-<img src=" https://github.com/sahrishafzal/logos/blob/main/HTML5_logo_and_wordmark.svg" alt="  HTML " width="60" height="60">  
+<img src="https://github.com/sahrishafzal/logos/blob/main/HTML5_logo_and_wordmark.svg" alt="HTML" width="60" height="60">  
 <img src="https://github.com/sahrishafzal/logos/blob/main/CSS3_logo.svg  " alt="CSS " width="60" height="60"> 
 <img src=" " alt="Bootstrap " width="60" height="60">  
 <img src=" https://github.com/sahrishafzal/logos/blob/main/React-icon.svg" alt=" React.js" width="60" height="60"> 
