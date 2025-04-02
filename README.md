@@ -42,9 +42,21 @@ Proficient in **Project Management, Data Analysis, Data Structures, OOP, Git**, 
 
 ---
 
-## Certificates  
+## Certificates 
+I have completed multiple certifications in different domains, including web development, UX design, data analytics, and research ethics.  
 [![Certificates](https://img.shields.io/badge/My-Certificates-blue?style=for-the-badge)](https://github.com/sahrishafzal/Certificate)
-- 🏅 **Advanced Technical Interview Prep (TIP103) - CodePath**  
+### 🏆 List of Certificates  
+
+- [Agile Coach Certificate](https://github.com/sahrishafzal/Certificate/blob/main/Agile%20Coach%20Certificate.pdf)  
+- [BS Degree Completion Diploma](https://github.com/sahrishafzal/Certificate/blob/main/BS%20Degree%20Completion%20diploma.pdf)  
+- [Capstone Project Achievement](https://github.com/sahrishafzal/Certificate/blob/main/Capstone%20Projeject%20Achievement.png)  
+- [Express Essentials - Build Powerful Web Apps with Node.js](https://github.com/sahrishafzal/Certificate/blob/main/CertificateOfCompletion_Express%20Essentials%20Build%20Powerful%20Web%20Apps%20with%20Node.js%20.pdf)  
+- [Data Analytics](https://github.com/sahrishafzal/Certificate/blob/main/Data%20Analytics.pdf)  
+- [Foundations of User Experience (UX) Design](https://github.com/sahrishafzal/Certificate/blob/main/Foundations%20of%20User%20Experience%20(UX)%20Design.pdf)  
+- [Frontend Web Development](https://github.com/sahrishafzal/Certificate/blob/main/Frontend%20Web%20Development.pdf)  
+- [IRB Member (Basic)](https://github.com/sahrishafzal/Certificate/blob/main/IRB%20Member(basic).pdf)  
+- [RCR Course](https://github.com/sahrishafzal/Certificate/blob/main/RCR%20Coure.pdf)  
+- 🏅 **Software Engineer (TIP103) - CodePath**  
 - 📜 **Advanced Web Development & Cybersecurity - CodePath**  
 - 🎨 **UX Design - Coursera**  
 - 🎖 **Scrum Master - Udemy**  
