@@ -42,7 +42,8 @@ Proficient in **Project Management, Data Analysis, Data Structures, OOP, Git**, 
 
 ---
 
-## 📜 Certificates  
+## Certificates  
+[![Certificates](https://img.shields.io/badge/My-Certificates-blue?style=for-the-badge)](https://github.com/sahrishafzal/Certificate)
 - 🏅 **Advanced Technical Interview Prep (TIP103) - CodePath**  
 - 📜 **Advanced Web Development & Cybersecurity - CodePath**  
 - 🎨 **UX Design - Coursera**  
