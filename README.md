@@ -15,7 +15,7 @@ Proficient in **Project Management, Data Analysis, Data Structures, OOP, Git**, 
 
 ---
 ## 🎓 Education
-<img src="https://media.licdn.com/dms/image/v2/C4E0BAQGeM2xL_Ibjhw/company-logo_200_200/company-logo_200_200/0/1630582551756/njit_logo?e=1749081600&v=beta&t=M9OHBL_ymmnfpQArTJwM2NfX-KHyL2IukQnjjr5whTc" alt="New Jersey Institute of Technology" width="60" height="60"> BS in Computer Science and Business  12/2024
+<img src="https://media.licdn.com/dms/image/v2/C4E0BAQGeM2xL_Ibjhw/company-logo_200_200/company-logo_200_200/0/1630582551756/njit_logo?e=1749081600&v=beta&t=M9OHBL_ymmnfpQArTJwM2NfX-KHyL2IukQnjjr5whTc" alt="New Jersey Institute of Technology" width="60" height="60"> BS in Computer Science and Business  
 
 - Programming Club, Cybersecurity Club, Honor Society, Women in Computing Society, Girls Who Code, Badminton Club, Swimming Club
 
@@ -32,7 +32,7 @@ I have earned multiple certifications across diverse domains, including software
 [![Certificates](https://img.shields.io/badge/My-Certificates-blue?style=for-the-badge)](https://github.com/sahrishafzal/Certificate)
 ### 🏆 List of Certificates
 
-- [BS Degree Completion Diploma](https://github.com/sahrishafzal/Certificate/blob/main/BS%20Degree%20Completion%20diploma.pdf)
+ [](https://github.com/sahrishafzal/Certificate/blob/main/BS%20Degree%20Completion%20diploma.pdf)
 - [Agile Coach Certificate](https://github.com/sahrishafzal/Certificate/blob/main/Agile%20Coach%20Certificate.pdf)    
 - [Capstone Project Achievement](https://github.com/sahrishafzal/Certificate/blob/main/Capstone%20Projeject%20Achievement.png)  
 - [Express Essentials - Build Powerful Web Apps with Node.js](https://github.com/sahrishafzal/Certificate/blob/main/CertificateOfCompletion_Express%20Essentials%20Build%20Powerful%20Web%20Apps%20with%20Node.js%20.pdf)  
